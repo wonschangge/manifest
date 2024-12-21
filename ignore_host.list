@@ -1,0 +1,72 @@
+# 系统默认
+localhost
+127.0.0.0/8
+::1
+
+# 星光麒麟
+*.starkylin.xyz
+
+# 字节豆包
+*.doubao.com
+*.zijieapi.com
+*.bytedance.com
+*.byteimg.com
+*.douyinpic.com
+
+# 搜狗翻译
+*.sogou.com
+*.sogoucdn.com
+
+# 金山文档
+*.kdocs.cn
+
+# 腾讯文档
+*.tencent.com
+*.qq.com
+*.gtimg.com
+*.idqqimg.com
+
+# 东方财富
+*.eastmoney.com
+
+# 所有以 .cn 结尾的域名
+*.cn
+
+# vscode cdn
+*.vscode-cdn.net
+
+# CSDN
+*.csdn.net
+
+# 百度
+*.baidu.com
+*.gstatic.com
+
+# 京东
+*.jd.com
+*.360buyimg.com
+*.mediav.com
+*.jddj.com
+*.jingdong.com
+*.jddaojia.shop
+
+# 京东验证
+*.jkcsjd.com
+*.yiyaojd.com
+*.healthjd.com
+*.7fresh.com
+*.jdpay.com
+*.jdh.com
+*.jd.hk
+*.jingxi.com
+*.yhd.com
+*.unlimithealth.com
+
+
+# 博客园
+*.cnblogs.com
+
+# 香蕉派
+*.banana-pi.org
+
+
