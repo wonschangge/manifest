@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote name="github" fetch="https://github.com/" />
-	<default revision="main"
+	<default revision="master"
            remote="github"
            sync-j="8" />
 	
-	<!-- Base -->
-	<project path="bgbspd" name="beejjorgensen/bgbspd" remote="github" />
-	<!-- Guides -->
-	<project path="bggit" name="beejjorgensen/bggit" remote="github" />
-	<project path="bgnet" name="beejjorgensen/bgnet" remote="github" />
-	<project path="bgnet0" name="beejjorgensen/bgnet0" remote="github" />
-	<project path="bgipc" name="beejjorgensen/bgipc" remote="github" />
-	<project path="bgpython" name="beejjorgensen/bgpython" remote="github" />
-	<project path="bgc" name="beejjorgensen/bgc" remote="github" />
-	<project path="bgclr" name="beejjorgensen/bgclr" remote="github" />
+	<project path="iperf" name="esnet/iperf" remote="github" revision="refs/tags/3.18" />
 </manifest>

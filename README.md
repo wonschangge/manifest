@@ -8,13 +8,13 @@ repo manifests
 1. 全量拉取（常用于开发修改）
 
 ```sh
-$ repo init -u https://github.com/wonschangge/manifest.git -b xxxxxx
+$ repo init -u https://github.com/wonschangge/manifest.git -b benchmark_network
 $ repo sync -j${nproc}
 ```
 
 2. 轻量拉取（常用于搭建使用）
 
 ```sh
-$ repo init -u https://github.com/wonschangge/manifest.git -b xxxxxx --depth=1
+$ repo init -u https://github.com/wonschangge/manifest.git -b benchmark_network --depth=1
 $ repo sync -j${nproc}
 ```
